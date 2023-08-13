@@ -24,7 +24,7 @@
 4. 增大数据量与模型大小，以期望获得更好的古汉语理解能力。
 
 ## 数据集 Dataset
-
+本项目用于训练的数据集在Releases中，将他们下载后放在Data文件夹下
 本项目的原始数据集来自[Classical-Modern](https://github.com/NiuTrans/Classical-Modern)，为了增加模型理解能力做了以下处理：
 
 1. 将原始数据集分为3个部分，分别是<br>
